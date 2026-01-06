@@ -35,3 +35,8 @@ Personal website showcasing my skills, projects, and contact information.
 
 📫 **Connect with me**
 - GitHub: https://github.com/19Amrita
+---
+
+### 📊 GitHub Stats
+![Amrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=19Amrita&show_icons=true)
+
