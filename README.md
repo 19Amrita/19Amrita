@@ -40,3 +40,7 @@ Personal website showcasing my skills, projects, and contact information.
 ### 📊 GitHub Stats
 ![Amrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=19Amrita&show_icons=true)
 
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=19Amrita&layout=compact)
+
+
