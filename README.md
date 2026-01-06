@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi 👋 I'm Amrita Kumari  
 
-<!--
-**19Amrita/19Amrita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate  
+💻 Aspiring Software / Frontend Developer  
+🚀 Passionate about Java, DSA, and React development  
+📈 Currently focusing on improving problem-solving skills and building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Java, JavaScript  
+- **Frontend:** React.js, HTML, CSS  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📌 Featured Projects
+🎬 **IMDb Clone**  
+A React-based movie application displaying upcoming, popular, and top-rated movies.
+
+✅ **Todo List App (React)**  
+A simple task management application with add and delete functionality.
+
+🌐 **Portfolio Website**  
+Personal website showcasing my skills, projects, and contact information.
+
+---
+
+### 📚 Currently Working On
+- Solving DSA problems (LeetCode / GFG)
+- Enhancing React projects
+- Maintaining consistent GitHub contributions
+
+---
+
+📫 **Connect with me**
+- GitHub: https://github.com/19Amrita
