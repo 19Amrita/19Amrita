@@ -41,6 +41,8 @@ Personal website showcasing my skills, projects, and contact information.
 ![Amrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=19Amrita&show_icons=true)
 
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=19Amrita&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=19Amrita&layout=compact)
+
+
 
 
